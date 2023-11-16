@@ -1,0 +1,29 @@
+body{
+    margin: 50px;
+    padding: 20px;
+}
+    h1{
+    text-align: center;
+    background-color: rgb(67, 67, 112);
+    color: white;
+    padding: 10px;
+    margin: 0;
+    
+}
+#textarea{
+    font-size: 25px;
+    margin-top: 5px;
+    height: 300px;
+    width: 99.5%;
+    border: 2px solid;
+    border-color: rgb(67, 67, 112);
+}
+p{
+    text-align: center;
+    background-color: rgb(67, 67, 112);
+    color: white;
+    margin: 0;
+    padding: 10px;
+    font-size: 25px;
+}
+    
